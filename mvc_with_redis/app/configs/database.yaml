@@ -1,0 +1,17 @@
+# ===================================================== #
+#
+# Database:
+#   Specify all the credentials for your machine's
+#   database drivers.
+#     (Note: supported database drivers are currently
+#       limited)
+#     Database Drivers available: MySql, Postgres
+#
+# ===================================================== #
+database:
+  host: "localhost"
+  user: "root"
+  password: "JA0202"
+  database: "hh_product_dashboard"
+  port: 3306
+  dbDriver: "mysql"

@@ -1,0 +1,11 @@
+# =================================================== #
+# Key value pair for the route to controller methods
+# Example:
+#
+# ClassFileController:
+#   "/test_url": "testMethod"
+#
+# =================================================== #
+
+WelcomeController:
+  "/": "welcome"

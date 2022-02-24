@@ -1,0 +1,12 @@
+# Session variable used in app.js
+session:
+  secret: 'lemonade'
+  resave: false
+  saveUninitialized: true
+  cookie: { maxAge: 600000 }
+
+# Base URL
+base_url: 'http://localhost:8000/'
+
+# Set to enable profiler
+profiler_enabled: false
